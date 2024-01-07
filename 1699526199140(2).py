@@ -247,8 +247,8 @@ if __name__ == '__main__':
             from lxml import etree
             import hashlib
     '''
-    username = "17612708975"
-    password = "Xql181911"
+    username = "xxxxxx"
+    password = "xxxxxx"
     session = get_session(username, password)
     url = "https://www.ncpssd.org/journal/details?gch=97894B&nav=1&langType=1"
     filepath = "pdf17"
